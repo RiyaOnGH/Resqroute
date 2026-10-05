@@ -1,0 +1,15 @@
+{
+  "name": "resqroute",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "npm --prefix client run dev",
+    "client": "npm --prefix client run dev",
+    "server": "npm --prefix server run start",
+    "build": "npm --prefix client run build",
+    "preview": "npm --prefix client run preview",
+    "start": "npm --prefix server run start",
+    "install:all": "npm --prefix client install && npm --prefix server install"
+  }
+}

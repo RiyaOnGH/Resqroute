@@ -1,0 +1,17 @@
+{
+  "name": "ResQRoute Offline Mesh",
+  "short_name": "ResQRoute",
+  "description": "Offline-First Emergency Route & Information Exchange Mesh",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#070a10",
+  "theme_color": "#070a10",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "64x64 192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
